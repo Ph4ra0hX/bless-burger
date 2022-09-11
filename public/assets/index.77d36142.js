@@ -3552,7 +3552,7 @@ const Cl = {
           {
             nome: "Batata Tradicional",
             descricao: "Batatas Fritas Crocantes Acompanha Molho da Casa",
-            preco: 11,
+            preco: 14.9,
             quantidade: 0,
             id: 1,
           },
@@ -3560,7 +3560,7 @@ const Cl = {
             nome: "Batata Bacon",
             descricao:
               "Batatas Fritas Crocantes, Coberta Com Molho Cheddar e Bacon. Acompanha Molho da Casa e Barbecue.",
-            preco: 20,
+            preco: 22.9,
             quantidade: 0,
             id: 1,
           },
@@ -3568,7 +3568,7 @@ const Cl = {
             nome: "Batata Calabresa",
             descricao:
               "Batatas Fritas Crocantes, Cobertas Com Cream Cheese e Calabresa. Acompanha Molho da Casa e Barbecue.",
-            preco: 20,
+            preco: 22.9,
             quantidade: 0,
             id: 1,
           },
@@ -3576,7 +3576,7 @@ const Cl = {
             nome: "Batata Bless",
             descricao:
               "Batata Frita Crocante, Carne de Sol Desfiada, Cream Cheese. Acompanha Molho da Casa e Barbecue.",
-            preco: 22,
+            preco: 24.9,
             quantidade: 0,
             id: 1,
           },
@@ -3615,7 +3615,7 @@ const Cl = {
             nome: "Queijo Crock",
             descricao:
               "Queijo Coalho Empanado na Farinha Panko, Geleia de Abacaxi Com Pimenta.",
-            preco: 16,
+            preco: 20.9,
             quantidade: 0,
             id: 1,
           },
@@ -3637,7 +3637,7 @@ const Cl = {
           {
             nome: "Pastelzinho de Camar\xE3o",
             descricao: "",
-            preco: 24,
+            preco: 25.9,
             quantidade: 0,
             id: 1,
           },
@@ -3661,7 +3661,7 @@ const Cl = {
             nome: "Cheese Burger",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Mu\xE7arela.",
-            preco: 15,
+            preco: 15.9,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3670,7 +3670,7 @@ const Cl = {
             nome: "Cheese Salada",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Mu\xE7arela, Alface e Tomate.",
-            preco: 16,
+            preco: 17.9,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3679,7 +3679,7 @@ const Cl = {
             nome: "Cheese Bacon",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Catupiry, Bacon Defumado, Cebola Caramelizada.",
-            preco: 18,
+            preco: 19.9,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3688,7 +3688,7 @@ const Cl = {
             nome: "Cheese Eggs",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Cheddar, Ovo, Bacon, Tomate e Alface.",
-            preco: 19,
+            preco: 20.9,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3726,7 +3726,7 @@ const Cl = {
             nome: "Frango Cheese",
             descricao:
               "P\xE3o Baguete Brioche, Frango Desfiado, Cream Cheese, Bacon, Alface, Tomate e Molho da Casa.",
-            preco: 16,
+            preco: 16.9,
             quantidade: 0,
             id: 3,
           },
@@ -3734,7 +3734,7 @@ const Cl = {
             nome: "Frango Crispy",
             descricao:
               "P\xE3o Baguete Brioche, Frango Empanado Crocante, Catupiry, Couve Crispy e Molho da Casa.",
-            preco: 16,
+            preco: 16.9,
             quantidade: 0,
             id: 3,
           },
@@ -3768,7 +3768,7 @@ const Cl = {
             nome: "Carne de Sol Nordestina",
             descricao:
               "Carne de Sol Refogada na Manteiga da Terra Com Cebola, Queijo Assado, Arroz e Batata Frita (serve 2 Pessoas)",
-            preco: 42,
+            preco: 44.9,
             quantidade: 0,
             id: 4,
           },
@@ -4361,7 +4361,7 @@ const Cl = {
           console.log(this.pedidos),
           console.log(e),
           console.log(this.observacoes),
-          (window.location.href = `http://18.230.167.89:5555/enviarpedido/${JSON.stringify(
+          (window.location.href = `https://bless-burger.herokuapp.com/enviarpedido/${JSON.stringify(
             this.pedidos
           )}/${JSON.stringify(e)}/${JSON.stringify(
             this.formaDePagamento
