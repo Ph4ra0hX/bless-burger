@@ -4589,7 +4589,7 @@ const Cl = {
   uu = z(),
   fu = c("br", null, null, -1),
   hu = Er(
-    '<div class="rodape"><br> Quarta a Segunda 18:00 \xE0s 22:30 <br><br> Rua Dr. Gaspar de Oliveira - N \xB0 760 <br><br><a href="https://instagram.com/bless_burg?igshid=YmMyMTA2M2Y=" class="fa fa-lg fa-instagram"></a><a href="https://instagram.com/bless_burg?igshid=YmMyMTA2M2Y="> @bless_burger </a><br><br><a href="https://api.whatsapp.com/send?phone=5588997011199" class="fab fa-whatsapp"></a><a href="https://api.whatsapp.com/send?phone=5588997011199"> (88) 9 9701-1199 </a><br><br> Criado e desenvolvido por <a id="nomeDev" href="https://www.instagram.com/wesleyj.dev/?hl=pt-br"> Wesley Jonatha </a><br><br></div>',
+    '<div class="rodape"><br> Quarta a Domingo 18:00 \xE0s 22:30 <br><br> Rua Dr. Gaspar de Oliveira - N \xB0 760 <br><br><a href="https://instagram.com/bless_burg?igshid=YmMyMTA2M2Y=" class="fa fa-lg fa-instagram"></a><a href="https://instagram.com/bless_burg?igshid=YmMyMTA2M2Y="> @bless_burger </a><br><br><a href="https://api.whatsapp.com/send?phone=5588997011199" class="fab fa-whatsapp"></a><a href="https://api.whatsapp.com/send?phone=5588997011199"> (88) 9 9701-1199 </a><br><br> Criado e desenvolvido por <a id="nomeDev" href="https://www.instagram.com/wesleyj.dev/?hl=pt-br"> Wesley Jonatha </a><br><br></div>',
     1
   );
 function pu(e, t, o, n, r, s) {
