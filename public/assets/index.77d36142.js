@@ -3552,7 +3552,7 @@ const Cl = {
           {
             nome: "Batata Tradicional",
             descricao: "Batatas Fritas Crocantes Acompanha Molho da Casa",
-            preco: 14.9,
+            preco: 14.0,
             quantidade: 0,
             id: 1,
           },
@@ -3560,7 +3560,7 @@ const Cl = {
             nome: "Batata Bacon",
             descricao:
               "Batatas Fritas Crocantes, Coberta Com Molho Cheddar e Bacon. Acompanha Molho da Casa e Barbecue.",
-            preco: 22.9,
+            preco: 26.0,
             quantidade: 0,
             id: 1,
           },
@@ -3568,7 +3568,7 @@ const Cl = {
             nome: "Batata Calabresa",
             descricao:
               "Batatas Fritas Crocantes, Cobertas Com Cream Cheese e Calabresa. Acompanha Molho da Casa e Barbecue.",
-            preco: 22.9,
+            preco: 26.0,
             quantidade: 0,
             id: 1,
           },
@@ -3576,7 +3576,7 @@ const Cl = {
             nome: "Batata Bless",
             descricao:
               "Batata Frita Crocante, Carne de Sol Desfiada, Cream Cheese. Acompanha Molho da Casa e Barbecue.",
-            preco: 24.9,
+            preco: 28.0,
             quantidade: 0,
             id: 1,
           },
@@ -3615,7 +3615,7 @@ const Cl = {
             nome: "Queijo Crock",
             descricao:
               "Queijo Coalho Empanado na Farinha Panko, Geleia de Abacaxi Com Pimenta.",
-            preco: 20.9,
+            preco: 21.0,
             quantidade: 0,
             id: 1,
           },
@@ -3637,21 +3637,21 @@ const Cl = {
           {
             nome: "Pastelzinho de Camar\xE3o",
             descricao: "",
-            preco: 25.9,
+            preco: 28.0,
             quantidade: 0,
             id: 1,
           },
           {
             nome: "Pastelzinho de Frango Catupiry",
             descricao: "",
-            preco: 22,
+            preco: 26,
             quantidade: 0,
             id: 1,
           },
           {
             nome: "Pastelzinho Carne de Sol",
             descricao: "",
-            preco: 22,
+            preco: 26,
             quantidade: 0,
             id: 1,
           },
@@ -3661,7 +3661,7 @@ const Cl = {
             nome: "Cheese Burger",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Mu\xE7arela.",
-            preco: 15.9,
+            preco: 17.0,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3670,7 +3670,7 @@ const Cl = {
             nome: "Cheese Salada",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Mu\xE7arela, Alface e Tomate.",
-            preco: 17.9,
+            preco: 18.0,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3679,7 +3679,7 @@ const Cl = {
             nome: "Cheese Bacon",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Catupiry, Bacon Defumado, Cebola Caramelizada.",
-            preco: 19.9,
+            preco: 21.0,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3688,7 +3688,7 @@ const Cl = {
             nome: "Cheese Eggs",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Cheddar, Ovo, Bacon, Tomate e Alface.",
-            preco: 20.9,
+            preco: 23.0,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3697,7 +3697,7 @@ const Cl = {
             nome: "Camar\xE3o Burger",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Camar\xE3o Empanado, Catupiry e Couve Crispy. Acompanha Batata Frita.",
-            preco: 24,
+            preco: 25.0,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3706,7 +3706,7 @@ const Cl = {
             nome: "Ranch",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Coalho Assado, Bacon Crocante. (acompanha Por\xE7\xE3o Individual de Batata Frita.)",
-            preco: 22,
+            preco: 24,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3715,7 +3715,7 @@ const Cl = {
             nome: "Bless Burger",
             descricao:
               "P\xE3o Brioche, Hamburguer Artesanal 160g, Queijo Mu\xE7arela Empanado, Gel\xE9ia de Abacaxi Com Pimenta. (acompanha Por\xE7\xE3o Individual de Batata Frita)",
-            preco: 24,
+            preco: 26.0,
             quantidade: 0,
             id: 2,
             selecionados: [],
@@ -3726,7 +3726,7 @@ const Cl = {
             nome: "Frango Cheese",
             descricao:
               "P\xE3o Baguete Brioche, Frango Desfiado, Cream Cheese, Bacon, Alface, Tomate e Molho da Casa.",
-            preco: 16.9,
+            preco: 17.0,
             quantidade: 0,
             id: 3,
           },
@@ -3734,7 +3734,7 @@ const Cl = {
             nome: "Frango Crispy",
             descricao:
               "P\xE3o Baguete Brioche, Frango Empanado Crocante, Catupiry, Couve Crispy e Molho da Casa.",
-            preco: 16.9,
+            preco: 17.0,
             quantidade: 0,
             id: 3,
           },
@@ -3742,7 +3742,7 @@ const Cl = {
             nome: "Hot Cheddar",
             descricao:
               "P\xE3o Baguete Brioche, Lingui\xE7a Calabresa, Queijo Cheddar, Bacon, Vinagrete e Molho da Casa.",
-            preco: 16,
+            preco: 17.0,
             quantidade: 0,
             id: 3,
           },
@@ -3768,7 +3768,7 @@ const Cl = {
             nome: "Carne de Sol Nordestina",
             descricao:
               "Carne de Sol Refogada na Manteiga da Terra Com Cebola, Queijo Assado, Arroz e Batata Frita (serve 2 Pessoas)",
-            preco: 44.9,
+            preco: 46.0,
             quantidade: 0,
             id: 4,
           },
@@ -3814,34 +3814,26 @@ const Cl = {
             quantidade: 0,
             id: 5,
           },
-          {
-            nome: "Salada Tropical",
-            descricao:
-              "Alface, Tomate, R\xFAcula, Palmito, Manga e Cheiro Verde",
-            preco: 20,
-            quantidade: 0,
-            id: 5,
-          },
         ]),
         x = q([
           {
             nome: "Morango (shake)",
             descricao: "",
-            preco: 14,
+            preco: 15,
             quantidade: 0,
             id: 6,
           },
           {
             nome: "Ovomaltine (shake)",
             descricao: "",
-            preco: 14,
+            preco: 15,
             quantidade: 0,
             id: 6,
           },
           {
             nome: "Chocolate (shake)",
             descricao: "",
-            preco: 14,
+            preco: 15,
             quantidade: 0,
             id: 6,
           },
@@ -4018,13 +4010,6 @@ const Cl = {
         ]),
         N = q([
           {
-            nome: "Pudim de Leite",
-            descricao: "",
-            preco: 10,
-            quantidade: 0,
-            id: 7,
-          },
-          {
             nome: "Petit Gateau (Chocolate Com Sorvete de Creme)",
             descricao: "",
             preco: 15,
@@ -4035,13 +4020,6 @@ const Cl = {
             nome: "Cocada de Forno",
             descricao: "",
             preco: 15,
-            quantidade: 0,
-            id: 7,
-          },
-          {
-            nome: "Del\xEDcia de Abacaxi",
-            descricao: "",
-            preco: 12,
             quantidade: 0,
             id: 7,
           },
