@@ -3802,7 +3802,7 @@ const Cl = {
             nome: "Salada de Camar\xE3o",
             descricao:
               "Alface, Cenoura Ralada, Tomate, Azeitona, Croutons, Camar\xE3o e Parmes\xE3o Ralado",
-            preco: 28,
+            preco: 26,
             quantidade: 0,
             id: 5,
           },
@@ -3810,7 +3810,7 @@ const Cl = {
             nome: "Salada de Frango",
             descricao:
               "Alface, Cenoura, Tomate, Frango Desfiado, Croutons e Ricota",
-            preco: 24,
+            preco: 22,
             quantidade: 0,
             id: 5,
           },
