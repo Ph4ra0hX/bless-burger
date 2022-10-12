@@ -3607,7 +3607,7 @@ const Cl = {
             nome: "Nuggets",
             descricao:
               "Empanados de Frango Crocante. Acompanha Molho da Casa e Barbecue.",
-            preco: 20,
+            preco: 23,
             quantidade: 0,
             id: 1,
           },
@@ -3623,14 +3623,14 @@ const Cl = {
             nome: "Camar\xE3o Bless ",
             descricao:
               "Camar\xE3o Empanado na Farinha Panko. Acompanha Gel\xE9ia de Abacaxi Com Pimenta.",
-            preco: 33,
+            preco: 35,
             quantidade: 0,
             id: 1,
           },
           {
             nome: "Camar\xE3o Alho e \xD3leo",
             descricao: "Camar\xE3o Frito Ao Alho (sem Casca)",
-            preco: 33,
+            preco: 35,
             quantidade: 0,
             id: 1,
           },
@@ -3792,7 +3792,7 @@ const Cl = {
             nome: "Costelinha Su\xEDna",
             descricao:
               "Costelinha de Porco Assada, Coberto Com Molho Barbecue. Acompanha Farofa, Vinagrete e Arroz (serve 2 Pessoas)",
-            preco: 36,
+            preco: 40,
             quantidade: 0,
             id: 4,
           },
@@ -3802,7 +3802,7 @@ const Cl = {
             nome: "Salada de Camar\xE3o",
             descricao:
               "Alface, Cenoura Ralada, Tomate, Azeitona, Croutons, Camar\xE3o e Parmes\xE3o Ralado",
-            preco: 20,
+            preco: 28,
             quantidade: 0,
             id: 5,
           },
@@ -3810,7 +3810,7 @@ const Cl = {
             nome: "Salada de Frango",
             descricao:
               "Alface, Cenoura, Tomate, Frango Desfiado, Croutons e Ricota",
-            preco: 18,
+            preco: 24,
             quantidade: 0,
             id: 5,
           },
