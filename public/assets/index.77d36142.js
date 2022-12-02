@@ -4339,7 +4339,7 @@ const Cl = {
           console.log(this.pedidos),
           console.log(e),
           console.log(this.observacoes),
-          (window.location.href = `https://bless-burger.herokuapp.com/enviarpedido/${JSON.stringify(
+          (window.location.href = `https://api-bless.vercel.app/enviarpedido/${JSON.stringify(
             this.pedidos
           )}/${JSON.stringify(e)}/${JSON.stringify(
             this.formaDePagamento
